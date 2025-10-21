@@ -1022,6 +1022,14 @@
           "description": "访问 192.168.1.110",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.110",
           "enabled": true
+        },
+        {
+          "id": "site_1761030163252_na9xoslz6",
+          "title": "磁力链",
+          "href": "http://192.168.1.110:3333",
+          "description": "访问 192.168.1.110",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.110",
+          "enabled": true
         }
       ],
       "subCategories": []
