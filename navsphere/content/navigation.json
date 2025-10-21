@@ -1014,7 +1014,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761030124117_8t0rbdc4r",
+          "title": "飞牛NAS",
+          "href": "http://192.168.1.110:8000",
+          "description": "访问 192.168.1.110",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.110",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
