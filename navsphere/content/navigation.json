@@ -1,6 +1,32 @@
 {
   "navigationItems": [
     {
+      "id": "1761029996297",
+      "title": "内网导航",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1761030124117_8t0rbdc4r",
+          "title": "飞牛NAS",
+          "href": "http://192.168.1.110:8000",
+          "description": "访问 192.168.1.110",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.110",
+          "enabled": true
+        },
+        {
+          "id": "site_1761030163252_na9xoslz6",
+          "title": "磁力链",
+          "href": "http://192.168.1.110:3333",
+          "description": "访问 192.168.1.110",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.110",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1007,32 +1033,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1761029996297",
-      "title": "内网导航",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1761030124117_8t0rbdc4r",
-          "title": "飞牛NAS",
-          "href": "http://192.168.1.110:8000",
-          "description": "访问 192.168.1.110",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.110",
-          "enabled": true
-        },
-        {
-          "id": "site_1761030163252_na9xoslz6",
-          "title": "磁力链",
-          "href": "http://192.168.1.110:3333",
-          "description": "访问 192.168.1.110",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.110",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
