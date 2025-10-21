@@ -100,6 +100,14 @@
           "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
           "icon": "/assets/favicon_1760507241370.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761029932746_iq5ukia1k",
+          "title": "Fnos",
+          "href": "https://fnos.crazyboy.cn",
+          "description": "访问 fnos.crazyboy.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fnos.crazyboy.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
