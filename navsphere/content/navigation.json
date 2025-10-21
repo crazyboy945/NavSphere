@@ -1007,6 +1007,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761029996297",
+      "title": "内网导航",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
